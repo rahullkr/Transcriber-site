@@ -32,7 +32,8 @@ Download Transcript: If satisfied with the transcript, download it for further u
 Accuracy: The tool strives to provide accurate transcripts by leveraging advanced speech recognition technology.\
 Convenience: Users can quickly convert MP4 files to transcripts without the need for manual transcription.\
 Customization: Some tools may offer options to customize the transcription process, such as language settings or speaker identification.\
-Limitations:
+
+**Limitations**:
 
 Audio Quality: The accuracy of the transcription may vary depending on the quality of the audio in the MP4 file. Background noise or poor audio clarity can affect the transcription accuracy.\
 Speaker Identification: In cases where there are multiple speakers, the tool may not always accurately identify individual speakers or distinguish between them.\
