@@ -14,57 +14,30 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+**Overview**:
+This tool is designed to convert MP4 files into text transcripts. It provides a convenient way to transcribe audio content from MP4 videos, making it easier to search, analyze, and reference spoken content.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**How to Use**:
 
-### `npm run build`
+Upload MP4 File: Begin by navigating to the website and locating the upload button. Click on it to select the MP4 file you want to transcribe.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Start Conversion: Once the file is uploaded, initiate the conversion process. The tool will process the audio content of the MP4 file and generate a transcript.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Review Transcript: After the conversion is complete, review the generated transcript. Ensure that it accurately represents the spoken content of the MP4 file.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Download Transcript: If satisfied with the transcript, download it for further use. The transcript can be saved as a text file for easy reference and sharing.
 
-### `npm run eject`
+**Features**:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Accuracy: The tool strives to provide accurate transcripts by leveraging advanced speech recognition technology.
+Convenience: Users can quickly convert MP4 files to transcripts without the need for manual transcription.
+Customization: Some tools may offer options to customize the transcription process, such as language settings or speaker identification.
+Limitations:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Audio Quality: The accuracy of the transcription may vary depending on the quality of the audio in the MP4 file. Background noise or poor audio clarity can affect the transcription accuracy.
+Speaker Identification: In cases where there are multiple speakers, the tool may not always accurately identify individual speakers or distinguish between them.
+Language Support: Transcription accuracy may vary for languages other than the supported languages.
+Security and Privacy:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Ensure that the tool complies with relevant privacy regulations and does not store or misuse user data.
+If dealing with sensitive or confidential content, consider using local transcription tools or ensuring that the online tool offers robust security measures
