@@ -19,13 +19,13 @@ This tool is designed to convert MP4 files into text transcripts. It provides a 
 
 **How to Use**:
 
-Upload MP4 File: Begin by navigating to the website and locating the upload button. Click on it to select the MP4 file you want to transcribe.\
+Upload MP4 File: Begin by navigating to the website and locating the upload button. Click on it to select the MP4 file you want to transcribe.
 
-Start Conversion: Once the file is uploaded, initiate the conversion process. The tool will process the audio content of the MP4 file and generate a transcript.\
+Start Conversion: Once the file is uploaded, initiate the conversion process. The tool will process the audio content of the MP4 file and generate a transcript.
 
-Review Transcript: After the conversion is complete, review the generated transcript. Ensure that it accurately represents the spoken content of the MP4 file.\
+Review Transcript: After the conversion is complete, review the generated transcript. Ensure that it accurately represents the spoken content of the MP4 file.
 
-Download Transcript: If satisfied with the transcript, download it for further use. The transcript can be saved as a text file for easy reference and sharing.\
+Download Transcript: If satisfied with the transcript, download it for further use. The transcript can be saved as a text file for easy reference and sharing.
 
 **Features**:
 
